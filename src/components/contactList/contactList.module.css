@@ -1,0 +1,21 @@
+.list {
+  list-style: none;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 500;
+  border: 2px solid rgb(218, 65, 205);
+  width: 450px;
+  align-items: center;
+  margin-bottom: 15px;
+  padding: 5px 20px;
+  box-shadow: 0px 4px 4px rgba(248, 65, 202, 0.233);
+  color: rgb(81, 20, 87);
+}
+
+.pRight {
+  color: rgb(106, 33, 173);
+  margin-right: 50px;
+}
